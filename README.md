@@ -15,6 +15,7 @@
 This repository documents my hands-on learning journey through a **10-day Physical Design Workshop by VLSI System Design (VSD)** using the **SKY130 Open-Source PDK**.
 
 The focus is on understanding the **ASIC backend / Physical Design flow**, from SoC and floorplanning concepts to timing, CTS, power distribution and routing.
+<img width="1090" height="432" alt="image" src="https://github.com/user-attachments/assets/37d7bdf3-ed7f-4dbb-95a1-636ea028830e" />
 
 ---
 
