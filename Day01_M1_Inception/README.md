@@ -28,7 +28,9 @@ An introduction to the QFN-48 package and its role in connecting an integrated c
 * Pin configuration and external connections
 * Relationship between a chip and its surrounding system
 
+<img width="1090" height="613" alt="image" src="https://github.com/user-attachments/assets/68725928-cad2-41fa-b4da-5fc36169e721" />
 
+<img width="1090" height="606" alt="image" src="https://github.com/user-attachments/assets/280cfecd-92ab-48bc-83a2-126f26960229" />
 
 ## 2. Introduction to RISC-V
 
@@ -40,6 +42,7 @@ An overview of the RISC-V instruction set architecture and its role in processor
 * Instruction set architecture (ISA)
 * Processor fundamentals
 
+<img width="1090" height="687" alt="image" src="https://github.com/user-attachments/assets/5b083ba1-9fa9-445a-b489-9ff91de9846d" />
 
 
 ## 3. From Software Applications to Hardware
@@ -51,7 +54,9 @@ An introduction to how software-level requirements are translated into hardware 
 * Software and hardware interaction
 * Basic computation and instruction execution
 * Hardware implementation concepts
+<img width="1090" height="681" alt="image" src="https://github.com/user-attachments/assets/d4f3eb3b-4be1-48ef-84c2-a2f6b16c1273" />
 
+<img width="1090" height="661" alt="image" src="https://github.com/user-attachments/assets/6d7ba625-6d59-41bb-951d-5ac8faa53b9d" />
 
 
 ---
@@ -68,6 +73,7 @@ Understanding the basic architecture of a System-on-Chip and how different funct
 * Functional blocks and interconnections
 * Hardware integration
 
+<img width="790" height="815" alt="image" src="https://github.com/user-attachments/assets/376c0c05-7c30-476d-a4ae-d834c06744b2" />
 
 
 ## 2. Simplified RTL-to-GDSII Flow
@@ -85,6 +91,7 @@ An overview of the transformation of a digital design from RTL description into 
 * Physical verification
 * GDSII generation
 
+<img width="1090" height="447" alt="image" src="https://github.com/user-attachments/assets/e744aa0a-7458-4fba-8c4c-185de2bd10a4" />
 
 
 ## 3. Introduction to Open-Source Physical Design
@@ -98,6 +105,7 @@ An introduction to the open-source physical design ecosystem and the role of acc
 * SKY130 technology
 * Open-source design methodology
 
+<img width="1090" height="515" alt="image" src="https://github.com/user-attachments/assets/ee35c397-4dc5-4bb5-b87c-e4cf4ed07c5d" />
 
 
 ## 4. Introduction to OpenLane
@@ -111,6 +119,7 @@ An introduction to OpenLane as an automated RTL-to-GDSII implementation flow, in
 * Tool integration
 * Physical design stages
 
+<img width="1090" height="515" alt="image" src="https://github.com/user-attachments/assets/e11f33f6-0537-4acf-845e-71950219bc72" />
 
 ---
 
