@@ -13,7 +13,7 @@
 
 ## 📌 Overview
 
-Day 3 of the VSD OpenLane SKY130 Physical Design Workshop focuses on the fundamentals of standard-cell design and the relationship between circuit implementation, simulation, physical layout and technology-specific information.
+Day 5 of the VSD OpenLane SKY130 Physical Design Workshop focuses on the fundamentals of standard-cell design and the relationship between circuit implementation, simulation, physical layout and technology-specific information.
 
 The sessions introduce CMOS circuit behavior, SPICE-based analysis, layout formation and the technology files required for implementing cells using the SKY130 process.
 
