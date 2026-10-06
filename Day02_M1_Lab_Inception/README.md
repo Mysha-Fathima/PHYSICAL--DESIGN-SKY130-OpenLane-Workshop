@@ -27,7 +27,8 @@ The third session of Day 1 focused on practical familiarization with the OpenLan
 
 **Learning outcome:** Gained initial familiarity with the OpenLane directory structure and its working environment.
 
-![OpenLane Directory Exploration](../../assets/day-01/lab/lab-01-openlane-directory.png)
+<img width="1090" height="606" alt="image" src="https://github.com/user-attachments/assets/8f7f55e8-e2d5-4f77-bc4e-aa984ec163b1" />
+
 
 ### 🧪 Lab 2 — Design Preparation
 
@@ -41,7 +42,8 @@ The third session of Day 1 focused on practical familiarization with the OpenLan
 
 **Learning outcome:** Developed an initial understanding of design preparation within the OpenLane environment.
 
-![Design Preparation](../../assets/day-01/lab/lab-02-design-preparation.png)
+<img width="1090" height="601" alt="image" src="https://github.com/user-attachments/assets/a70e610f-1c24-448a-8417-bd87a0b9433e" />
+
 
 ### 🧪 Lab 3 — Review Files After Design Preparation
 
@@ -55,7 +57,9 @@ The third session of Day 1 focused on practical familiarization with the OpenLan
 
 **Learning outcome:** Improved familiarity with design files and the organization of the implementation environment.
 
-![Design File Review](../../assets/day-01/lab/lab-03-file-review.png)
+<img width="1090" height="673" alt="image" src="https://github.com/user-attachments/assets/14783cb5-3bf9-432e-b317-543c45bee180" />
+
+
 
 ### 🧪 Lab 4 — OpenLane Project Git Familiarization
 
@@ -69,7 +73,8 @@ The third session of Day 1 focused on practical familiarization with the OpenLan
 
 **Learning outcome:** Gained familiarity with the OpenLane project and its associated resources.
 
-![OpenLane Project](../../assets/day-01/lab/lab-04-openlane-project.png)
+<img width="1090" height="515" alt="image" src="https://github.com/user-attachments/assets/d1711aa2-f2b8-49e9-aba8-bc15bbfa2662" />
+
 
 ### 🧪 Lab 5 — Steps to Characterize a Design
 
@@ -83,7 +88,6 @@ The third session of Day 1 focused on practical familiarization with the OpenLan
 
 **Learning outcome:** Developed an introductory understanding of design characterization and its role in VLSI implementation.
 
-![Design Characterization](../../assets/day-01/lab/lab-05-characterization.png)
 
 ---
 
