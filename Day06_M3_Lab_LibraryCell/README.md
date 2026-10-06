@@ -1,4 +1,4 @@
-# Day 03 | Design Library Cells
+# Day 06 | Design Library Cells
 
 ### Hands-on Lab — SK1, SK2 & SK3
 
@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-Day 3 included hands-on exercises across all three workshop sections.
+Day 6 included hands-on exercises across all three workshop sections.
 
 The practical work covered SPICE-based CMOS analysis, simulation and waveform observation, OpenLane/Git-based workflow familiarization, standard-cell layout activities and SKY130 technology-file exercises.
 
@@ -36,7 +36,8 @@ Reinforced the fundamentals of IO placement and its role in preparing a design f
 
 ### 📸 Lab Evidence
 
-![IO Placer Revision](../../assets/day-03/lab/sk1-l0-io-placer.png)
+<img width="1038" height="788" alt="image" src="https://github.com/user-attachments/assets/13bf8ffc-7abb-40d0-a672-8e6ac2ae6618" />
+
 
 ---
 
@@ -58,7 +59,11 @@ Gained practical experience with transistor-level SPICE simulation and waveform 
 
 ### 📸 Lab Evidence
 
-![SPICE Simulation](../../assets/day-03/lab/sk1-l2-spice-simulation.png)
+<img width="1090" height="633" alt="image" src="https://github.com/user-attachments/assets/cf2e71b4-9bc9-468a-a889-9dbd9b219f1b" />
+
+
+<img width="988" height="803" alt="image" src="https://github.com/user-attachments/assets/2b592e9b-a0c7-43b0-8a8d-299de76fa400" />
+
 
 ---
 
@@ -79,7 +84,16 @@ Developed practical understanding of static and dynamic CMOS circuit behavior.
 
 ### 📸 Lab Evidence
 
-![Static and Dynamic Simulation](../../assets/day-03/lab/sk1-l4-static-dynamic-simulation.png)
+
+<img width="803" height="670" alt="image" src="https://github.com/user-attachments/assets/dc84f55a-cc62-4b2f-b0e9-58ccc8c8306e" />
+
+
+<img width="1090" height="662" alt="image" src="https://github.com/user-attachments/assets/b561abf9-7c5d-4978-aaee-63da30e61b30" />
+
+
+<img width="981" height="795" alt="image" src="https://github.com/user-attachments/assets/62ef4bf7-9e85-47e0-8212-d12f232e3310" />
+
+<img width="1090" height="648" alt="image" src="https://github.com/user-attachments/assets/fee6daf8-5ff7-47d6-96be-698114348855" />
 
 ---
 
@@ -100,7 +114,11 @@ Gained practical familiarity with Git-based project setup and lab resource manag
 
 ### 📸 Lab Evidence
 
-![Git Clone Lab](../../assets/day-03/lab/sk1-l5-git-clone.png)
+
+<img width="1090" height="745" alt="image" src="https://github.com/user-attachments/assets/0a3898d6-8a73-4e60-bc6c-d1f46148306b" />
+
+
+
 
 ---
 
@@ -122,8 +140,8 @@ Gained practical familiarity with Git-based project setup and lab resource manag
 Developed practical familiarity with standard-cell layout organization.
 
 ### 📸 Lab Evidence
+<img width="1090" height="762" alt="image" src="https://github.com/user-attachments/assets/3094bba4-1fa5-41ca-9c31-9d218cb97a73" />
 
-![Standard Cell Layout](../../assets/day-03/lab/sk2-l8-standard-cell-layout.png)
 
 ---
 
@@ -144,7 +162,8 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 
 ### 📸 Lab Evidence
 
-![Standard Cell Layout Exercise](../../assets/day-03/lab/sk2-l9-layout-exercise.png)
+<img width="1090" height="686" alt="image" src="https://github.com/user-attachments/assets/ed1326bb-b8f9-4737-991d-b37d7fd8744e" />
+
 
 ---
 
@@ -164,7 +183,8 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 
 ### 📸 Lab Evidence
 
-![SKY130 Technology File Lab 1](../../assets/day-03/lab/sk3-l1.png)
+<img width="850" height="385" alt="image" src="https://github.com/user-attachments/assets/2aa33a23-e763-4e78-947b-6a6859c05a83" />
+
 
 ---
 
@@ -180,7 +200,8 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 
 ### 📸 Lab Evidence
 
-![SKY130 Characterization Lab](../../assets/day-03/lab/sk3-l2.png)
+<img width="1090" height="736" alt="image" src="https://github.com/user-attachments/assets/bcd36ee5-2f74-4aca-bc64-89c08a36b317" />
+
 
 ---
 
@@ -196,7 +217,8 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 
 ### 📸 Lab Evidence
 
-![Technology File Exploration](../../assets/day-03/lab/sk3-l3.png)
+<img width="1090" height="736" alt="image" src="https://github.com/user-attachments/assets/528a1aad-b35a-4937-ba6d-0528869324b6" />
+
 
 ---
 
@@ -212,7 +234,7 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 
 ### 📸 Lab Evidence
 
-![SKY130 Technology Setup](../../assets/day-03/lab/sk3-l4.png)
+<img width="1090" height="367" alt="image" src="https://github.com/user-attachments/assets/190e9cec-99b4-4ced-9d48-ba61c2872d5f" />
 
 ---
 
@@ -227,8 +249,8 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 - Validate the practical setup.
 
 ### 📸 Lab Evidence
+<img width="1090" height="1034" alt="image" src="https://github.com/user-attachments/assets/eebe1d81-0f1a-4f8e-8c90-5b50736999fc" />
 
-![SKY130 Technology Lab](../../assets/day-03/lab/sk3-l5.png)
 
 ---
 
@@ -238,7 +260,8 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 
 ### 📸 Lab Evidence
 
-![SKY130 Lab 6](../../assets/day-03/lab/sk3-l6.png)
+<img width="1090" height="618" alt="image" src="https://github.com/user-attachments/assets/979776cd-ed85-46f6-8fcc-a862a2d3784c" />
+
 
 ---
 
@@ -247,8 +270,8 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 **Objective:** Apply the technology information in the prescribed implementation exercise.
 
 ### 📸 Lab Evidence
+<img width="984" height="760" alt="image" src="https://github.com/user-attachments/assets/c1266734-77cb-4814-9dbe-124b82c45ef5" />
 
-![SKY130 Lab 7](../../assets/day-03/lab/sk3-l7.png)
 
 ---
 
@@ -258,7 +281,8 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 
 ### 📸 Lab Evidence
 
-![SKY130 Lab 8](../../assets/day-03/lab/sk3-l8.png)
+<img width="1090" height="608" alt="image" src="https://github.com/user-attachments/assets/cae7d9aa-de9f-4651-9716-b85a32576677" />
+
 
 ---
 
@@ -268,11 +292,12 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 
 ### 📸 Lab Evidence
 
-![SKY130 Lab 9](../../assets/day-03/lab/sk3-l9.png)
+<img width="783" height="904" alt="image" src="https://github.com/user-attachments/assets/4d57de2b-74e6-4b49-a675-2d2d74848137" />
+
 
 ---
 
-# 🧠 Day 3 — Practical Learning Outcomes
+# 🧠 Day 6 — Practical Learning Outcomes
 
 - Practiced IO placer concepts.
 - Performed transistor-level SPICE simulation.
