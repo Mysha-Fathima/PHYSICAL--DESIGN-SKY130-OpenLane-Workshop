@@ -1,4 +1,4 @@
-# Day 03 | Design Library Cells
+# Day 05 | Design Library Cells
 
 ### Lecture Sessions — SK1, SK2 & SK3
 
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Technology-SKY130-informational?style=flat-square" />
 </p>
 
-> **Day 03 Focus:** CMOS cell design, SPICE-based analysis, layout fundamentals and SKY130 technology files.
+> **Day 05 Focus:** CMOS cell design, SPICE-based analysis, layout fundamentals and SKY130 technology files.
 
 ## 📌 Overview
 
@@ -34,7 +34,11 @@ An introduction to creating a SPICE simulation deck for analyzing transistor-lev
 - Input stimulus
 - Simulation setup
 
-> **Practical work for this topic is documented separately in the Lab README.**
+
+<img width="1090" height="488" alt="image" src="https://github.com/user-attachments/assets/30082ab6-fe26-401b-843b-2c598c0e08b8" />
+
+<img width="1090" height="512" alt="image" src="https://github.com/user-attachments/assets/ba499528-8102-4660-b258-e06bc9f8615c" />
+
 
 ## 2. Switching Threshold — Vm
 
@@ -49,7 +53,11 @@ The switching threshold voltage, commonly represented as **Vm**, describes the p
 - Noise margins
 - Transistor sizing and switching behavior
 
-> **Practical work for this topic is documented separately in the Lab README.**
+
+<img width="1090" height="648" alt="image" src="https://github.com/user-attachments/assets/5cb7ff18-f801-4b3f-a127-def1084196c4" />
+
+
+<img width="1090" height="552" alt="image" src="https://github.com/user-attachments/assets/98e9aa44-5457-44fb-bb0c-5e26b991c478" />
 
 ---
 
@@ -67,6 +75,9 @@ Introduction to the formation of active regions required for transistor fabricat
 - Process-specific layout structures
 - Relationship between schematic and layout
 
+
+<img width="1090" height="573" alt="image" src="https://github.com/user-attachments/assets/fadf6715-7d92-4ea7-bfe3-6ef29cc98cd3" />
+
 ## 2. Formation of N-Well and Related Regions
 
 Understanding the role of wells in CMOS technology and how they support the formation of NMOS and PMOS devices.
@@ -79,6 +90,8 @@ Understanding the role of wells in CMOS technology and how they support the form
 - NMOS formation
 - CMOS process structure
 
+<img width="1090" height="521" alt="image" src="https://github.com/user-attachments/assets/e0dae9ca-eebb-4e13-a875-6b01bdd365ae" />
+
 ## 3. Formation of Gate Terminals
 
 Understanding how the gate structure is formed and how it controls transistor operation.
@@ -90,6 +103,8 @@ Understanding how the gate structure is formed and how it controls transistor op
 - Gate-to-channel relationship
 - CMOS transistor structure
 
+<img width="1090" height="513" alt="image" src="https://github.com/user-attachments/assets/7cc07f9e-fd93-46c7-81a1-62aa3e43191b" />
+
 ## 4. Lightly Doped Drain (LDD)
 
 Introduction to lightly doped drain structures and their importance in transistor fabrication.
@@ -100,6 +115,8 @@ Introduction to lightly doped drain structures and their importance in transisto
 - Source and drain regions
 - Electric-field management
 - Device reliability
+
+<img width="1090" height="558" alt="image" src="https://github.com/user-attachments/assets/82a5bc81-13cc-41af-919c-3389bb4841d5" />
 
 ## 5. Source–Drain Formation
 
@@ -113,6 +130,10 @@ Understanding the formation of source and drain regions required for CMOS transi
 - NMOS and PMOS structures
 - Electrical connectivity
 
+<img width="1090" height="621" alt="image" src="https://github.com/user-attachments/assets/4cdf5d6e-4aa3-42e4-810e-dae951d518c4" />
+
+
+
 ## 6. Local Interconnect Formation
 
 Introduction to local interconnect structures used to connect transistor-level components within a standard cell.
@@ -123,6 +144,7 @@ Introduction to local interconnect structures used to connect transistor-level c
 - Device connectivity
 - Contact structures
 - Layout hierarchy
+<img width="1090" height="570" alt="image" src="https://github.com/user-attachments/assets/b51fdfcd-0d66-42cc-b367-ab678d369043" />
 
 ## 7. Higher-Level Metal Formation
 
@@ -136,6 +158,8 @@ Understanding the role of higher metal layers in connecting devices and cells wi
 - Power routing
 - Physical connectivity
 
+<img width="1090" height="709" alt="image" src="https://github.com/user-attachments/assets/a5456f71-b432-41a3-80db-b2023c13a5f7" />
+
 ## 8. Introduction to Standard-Cell Layout
 
 Introduction to the organization and structure of standard-cell layouts used in digital physical design.
@@ -148,7 +172,8 @@ Introduction to the organization and structure of standard-cell layouts used in 
 - Layout organization
 - Cell-to-cell connectivity
 
-> **The hands-on work associated with L8 and L9 is documented separately in the Lab README.**
+<img width="1069" height="878" alt="image" src="https://github.com/user-attachments/assets/ece5bdf5-9352-4334-a069-c7f1ee75de9f" />
+
 
 ---
 
@@ -186,7 +211,7 @@ Understanding the role of technology files in connecting design rules, layers, d
 
 ---
 
-## 📊 Day 3 Theory Summary
+## 📊 Day 5 Theory Summary
 
 | Session | Area | Theory Covered |
 |---|---|---|
@@ -197,6 +222,6 @@ Understanding the role of technology files in connecting design rules, layers, d
 ---
 
 <p align="center">
-  <b>Day 03 — Theory Sessions</b><br/>
+  <b>Day 05 — Theory Sessions</b><br/>
   <i>Understanding CMOS cell design, layout formation and SKY130 technology.</i>
 </p>
