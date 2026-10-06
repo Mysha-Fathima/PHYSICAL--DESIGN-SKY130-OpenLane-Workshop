@@ -38,7 +38,11 @@ Cell design begins with defining the required functionality and electrical chara
 
 Developed an introductory understanding of the inputs and requirements involved in a standard-cell design flow.
 
-![Inputs for Cell Design Flow](../../assets/day-02/lab/cell-design-inputs.png)
+
+<img width="1090" height="643" alt="image" src="https://github.com/user-attachments/assets/5705ae66-db98-4cf6-a734-8a0e522b8562" />
+
+
+<img width="1090" height="364" alt="image" src="https://github.com/user-attachments/assets/afe0cc6d-f8a7-46ab-8c0f-df0bfbdf77de" />
 
 ## 🧪 Lab 2 — Circuit Design Step
 
@@ -59,7 +63,11 @@ The circuit design stage defines how transistors are connected to implement the 
 
 Gained an introductory understanding of transistor-level circuit design and its role in standard-cell development.
 
-![Circuit Design Step](../../assets/day-02/lab/circuit-design.png)
+
+<img width="1090" height="587" alt="image" src="https://github.com/user-attachments/assets/4e47d047-785c-47b8-a544-7a64a5a3e570" />
+
+<img width="1090" height="608" alt="image" src="https://github.com/user-attachments/assets/0fffd275-af59-403c-9522-5660f08f9a39" />
+
 
 ## 🧪 Lab 3 — Layout Design Step
 
@@ -81,7 +89,11 @@ The layout design stage converts the circuit topology into physical geometries a
 
 Understood the fundamental relationship between circuit design and physical layout, along with the importance of technology-specific layout constraints.
 
-![Layout Design Step](../../assets/day-02/lab/layout-design.png)
+
+<img width="1090" height="685" alt="image" src="https://github.com/user-attachments/assets/4d50429d-b537-4650-a00f-c46dee02e7b9" />
+
+<img width="1090" height="579" alt="image" src="https://github.com/user-attachments/assets/72177148-aa2b-453f-a785-89080d3bd09e" />
+
 
 ## 🧪 Lab 4 — Typical Characterization
 
@@ -103,7 +115,9 @@ Cell characterization evaluates the electrical behavior of a standard cell under
 
 Developed an introductory understanding of standard-cell characterization and its importance in timing-driven digital implementation.
 
-![Typical Characterization](../../assets/day-02/lab/typical-characterization.png)
+
+<img width="1090" height="717" alt="image" src="https://github.com/user-attachments/assets/98ae08bd-30af-468f-9f4b-9b37c33a776b" />
+
 
 ---
 
