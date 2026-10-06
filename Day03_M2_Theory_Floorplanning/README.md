@@ -35,6 +35,8 @@ Utilization factor and aspect ratio are two fundamental parameters that define t
 * Aspect ratio
 * Placement space and congestion
 
+<img width="1090" height="902" alt="image" src="https://github.com/user-attachments/assets/d142af32-279c-4253-996c-52494ffaba00" />
+
 ## 2. Concept of Pre-Placed Cells
 
 Understanding the concept of pre-placed cells and their importance in physical design. Pre-placed cells are assigned specific locations before the regular placement stage to satisfy design or physical constraints.
@@ -46,6 +48,9 @@ Understanding the concept of pre-placed cells and their importance in physical d
 * Macros and their placement
 * Placement constraints
 * Impact on floorplanning
+
+<img width="1090" height="662" alt="image" src="https://github.com/user-attachments/assets/35e36b65-4f7b-448a-9a11-4dd7f7c02d75" />
+<img width="1090" height="885" alt="image" src="https://github.com/user-attachments/assets/516d4a38-18a2-446f-bcb2-ababc842d4c5" />
 
 ## 3. Decoupling Capacitors
 
@@ -59,6 +64,8 @@ Decoupling capacitors help stabilize the local power supply by providing tempora
 * Local charge storage
 * Power integrity
 
+<img width="1090" height="584" alt="image" src="https://github.com/user-attachments/assets/8ab3a299-b723-4c88-8a4e-818fa455bf28" />
+
 ## 4. Power Planning
 
 Power planning defines how supply voltage and ground are distributed throughout the chip.
@@ -70,6 +77,8 @@ Power planning defines how supply voltage and ground are distributed throughout 
 * Power straps and rings
 * Voltage drop
 * Power integrity
+<img width="1090" height="832" alt="image" src="https://github.com/user-attachments/assets/88de8aca-1d12-4b34-a52c-8beebe7cd7ad" />
+<img width="1090" height="691" alt="image" src="https://github.com/user-attachments/assets/55be3443-4f50-4df9-8e37-38c8f0971e2c" />
 
 ## 5. Pin Placement and Logical Connections
 
@@ -82,6 +91,7 @@ Introduction to pin placement and its importance in establishing connectivity be
 * Signal connectivity
 * Routing accessibility
 * Interface organization
+<img width="953" height="928" alt="image" src="https://github.com/user-attachments/assets/b281e3b0-c84d-4de0-b06f-4fc7ec8803e0" />
 
 ## 6. Steps to Run Floorplanning
 
@@ -96,6 +106,8 @@ An overview of the main steps involved in creating a floorplan for a digital des
 * Power planning
 * Initial floorplan implementation
 
+<img width="1090" height="815" alt="image" src="https://github.com/user-attachments/assets/4fe5072e-2603-42aa-bdde-6eb1a0c1db35" />
+
 ## 7. Review of Floorplan Files
 
 Understanding the files and design information associated with floorplanning and reviewing the results of the floorplan stage.
@@ -108,6 +120,8 @@ Understanding the files and design information associated with floorplanning and
 * Implementation reports
 * Physical design review
 
+<img width="1090" height="821" alt="image" src="https://github.com/user-attachments/assets/1b60ad6b-9c30-4697-a213-b671a65a9cc5" />
+
 ## 8. Review of Floorplan Layout
 
 An introduction to reviewing the generated floorplan layout and understanding how design components are organized within the chip.
@@ -119,6 +133,10 @@ An introduction to reviewing the generated floorplan layout and understanding ho
 * Macros and standard cells
 * Pin locations
 * Power distribution and layout organization
+
+
+<img width="1090" height="577" alt="image" src="https://github.com/user-attachments/assets/e46542a1-9f91-4fd9-8e10-4db3f4ddda06" />
+
 
 ---
 
@@ -135,6 +153,8 @@ Understanding the relationship between a synthesized netlist, the standard-cell 
 * Cell instances
 * Placement initialization
 * Physical design constraints
+
+<img width="1090" height="508" alt="image" src="https://github.com/user-attachments/assets/62876b52-39d5-470b-abf2-cba8692fa00f" />
 
 ## 2. Optimize Placement Using Libraries
 
@@ -160,6 +180,8 @@ Introduction to placement optimization techniques used to improve the quality of
 * Cell displacement
 * Placement quality
 
+<img width="1090" height="408" alt="image" src="https://github.com/user-attachments/assets/b59f3d53-8771-4c5b-868d-b7cf5948327d" />
+
 ## 4. Need for Libraries and Their Importance
 
 Understanding why technology libraries are essential for digital implementation and how they provide the information needed for synthesis and physical design.
@@ -171,6 +193,10 @@ Understanding why technology libraries are essential for digital implementation 
 * Timing and power characteristics
 * Cell area
 * Technology-specific implementation
+
+<img width="1090" height="660" alt="image" src="https://github.com/user-attachments/assets/b9f5838f-1a42-4a36-a8d2-e1d5fc9dc01e" />
+
+<img width="1090" height="565" alt="image" src="https://github.com/user-attachments/assets/af18400e-3e04-493d-acad-2b665af66cd7" />
 
 ## 5. Congestion-Aware Placement
 
@@ -200,6 +226,8 @@ Introduction to timing thresholds and the voltage levels used to define digital 
 * Timing measurement
 * Signal interpretation
 
+<img width="1090" height="674" alt="image" src="https://github.com/user-attachments/assets/99851017-870a-498b-8e32-90886a768c3e" />
+
 ## 2. Propagation Delay
 
 Understanding propagation delay, the time taken for a change at a circuit input to produce a corresponding change at its output.
@@ -211,6 +239,8 @@ Understanding propagation delay, the time taken for a change at a circuit input 
 * Rise and fall delay
 * Gate delay
 * Timing behavior of digital circuits
+
+<img width="1090" height="699" alt="image" src="https://github.com/user-attachments/assets/438c1b85-c75c-46dd-a0e9-81b1976ebb1c" />
 
 ---
 
