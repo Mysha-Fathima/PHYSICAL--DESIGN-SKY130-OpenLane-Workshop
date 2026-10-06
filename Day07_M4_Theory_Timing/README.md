@@ -35,7 +35,8 @@ An introduction to timing behaviour in digital circuits and the relationship bet
 
 ### 📸 Learning Evidence
 
-![Introduction to Delay](../../assets/day-04/lectures/session-01/l4-introduction-delay.png)
+<img width="869" height="634" alt="image" src="https://github.com/user-attachments/assets/3a194fd0-8c62-4c01-975c-257bcfa78492" />
+
 
 ---
 
