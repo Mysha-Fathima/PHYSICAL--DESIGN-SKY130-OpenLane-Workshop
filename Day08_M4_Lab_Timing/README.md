@@ -35,7 +35,8 @@ Gained practical familiarity with preparing gate-level information for timing an
 
 ### 📸 Lab Evidence
 
-![Gate Level Conversion](../../assets/day-04/lab/sk1-l1-gate-conversion.png)
+<img width="1090" height="665" alt="image" src="https://github.com/user-attachments/assets/97c26b4c-668c-4c09-9c33-52a05ac978e2" />
+
 
 ---
 
@@ -55,7 +56,8 @@ Developed practical familiarity with preparing timing information for analysis.
 
 ### 📸 Lab Evidence
 
-![Timing Information Conversion](../../assets/day-04/lab/sk1-l2-timing-conversion.png)
+<img width="1083" height="1051" alt="image" src="https://github.com/user-attachments/assets/c6e66332-c743-48b7-bb00-2a7e1b43d76b" />
+
 
 ---
 
@@ -75,7 +77,7 @@ Gained initial hands-on experience with timing analysis.
 
 ### 📸 Lab Evidence
 
-![Timing Analysis Lab](../../assets/day-04/lab/sk1-l3-timing-analysis.png)
+
 
 ---
 
