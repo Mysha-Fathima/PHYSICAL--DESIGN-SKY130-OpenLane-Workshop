@@ -1,4 +1,4 @@
-# Day 04 | Pre-Layout Timing Analysis
+# Day 08 | Pre-Layout Timing Analysis
 
 ### Hands-on Lab — SK1, SK2, SK3 & SK4
 
@@ -11,7 +11,7 @@
 
 ## 📌 Overview
 
-Day 4 focused on applying pre-layout timing concepts through practical exercises covering timing modelling, timing analysis, timing configuration, optimization, Clock Tree Synthesis (CTS), and timing verification.
+Day 8 focused on applying pre-layout timing concepts through practical exercises covering timing modelling, timing analysis, timing configuration, optimization, Clock Tree Synthesis (CTS), and timing verification.
 
 ---
 
