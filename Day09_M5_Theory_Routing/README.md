@@ -1,4 +1,4 @@
-# Day 05 | Final Steps for Physical Design
+# Day 09 | Final Steps for Physical Design
 
 ### Lecture Sessions — SK1, SK2 & SK3
 
@@ -9,11 +9,11 @@
   <img src="https://img.shields.io/badge/Technology-SKY130-informational?style=flat-square" />
 </p>
 
-> **Day 05 Focus:** Routing fundamentals, Design Rule Check, power distribution concepts and TritonRoute.
+> **Day 09 Focus:** Routing fundamentals, Design Rule Check, power distribution concepts and TritonRoute.
 
 ## 📌 Overview
 
-Day 5 of the VSD OpenLane SKY130 Physical Design Workshop covers the final stages of the physical design flow, with emphasis on routing, design-rule verification, power distribution and TritonRoute.
+Day 9 of the VSD OpenLane SKY130 Physical Design Workshop covers the final stages of the physical design flow, with emphasis on routing, design-rule verification, power distribution and TritonRoute.
 
 The sessions introduce routing algorithms, routing verification and the role of routing tools in completing the physical implementation flow.
 
@@ -36,7 +36,9 @@ An introduction to maze-based routing techniques used to determine valid paths b
 
 ### 📸 Learning Evidence
 
-![Introduction to Maze Routing](../../assets/day-05/lectures/session-01/maze-routing.png)
+
+<img width="467" height="387" alt="image" src="https://github.com/user-attachments/assets/3e68789e-cb93-4986-9eb4-f0abbd995edd" />
+
 
 ---
 
@@ -54,8 +56,9 @@ Introduction to Lee's algorithm as a systematic approach for finding routing pat
 - Route reconstruction
 
 ### 📸 Learning Evidence
+<img width="408" height="347" alt="image" src="https://github.com/user-attachments/assets/29477756-c642-4f49-a479-0477329b085b" />
 
-![Lee's Algorithm](../../assets/day-05/lectures/session-01/lees-algorithm.png)
+<img width="481" height="402" alt="image" src="https://github.com/user-attachments/assets/754a7590-6b61-4317-a10e-5b0572c50a46" />
 
 ---
 
@@ -74,7 +77,7 @@ Introduction to Design Rule Check (DRC) and its role in verifying that the physi
 
 ### 📸 Learning Evidence
 
-![Design Rule Check](../../assets/day-05/lectures/session-01/design-rule-check.png)
+<img width="600" height="337" alt="image" src="https://github.com/user-attachments/assets/0262a6e3-67d0-4561-b80e-0766cb1fb0c7" />
 
 ---
 
@@ -95,7 +98,10 @@ Introduction to power distribution concepts and the organization of power networ
 
 ### 📸 Learning Evidence
 
-![Global and Detailed Power Distribution](../../assets/day-05/lectures/session-02/power-distribution.png)
+<img width="742" height="487" alt="image" src="https://github.com/user-attachments/assets/f83e2e32-2aea-46e4-8186-611231acf9a7" />
+<img width="1090" height="691" alt="image" src="https://github.com/user-attachments/assets/ae27572f-ab3c-4e92-a6d8-18c199da51a1" />
+
+
 
 > **Note:** SK2-L1 and SK2-L2 are hands-on lab exercises and are documented separately in the Lab README.
 
@@ -116,8 +122,9 @@ Introduction to the features and capabilities of TritonRoute used during the rou
 - Physical implementation
 
 ### 📸 Learning Evidence
+<img width="1693" height="887" alt="image" src="https://github.com/user-attachments/assets/7a06f705-4645-447e-a4b5-b01c45acf2ef" />
 
-![TritonRoute Feature 1](../../assets/day-05/lectures/session-03/tritonroute-feature-1.png)
+
 
 ---
 
@@ -170,8 +177,10 @@ Introduction to routing topology algorithms used to determine efficient intercon
 - Physical routing
 
 ### 📸 Learning Evidence
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/99fc99c2-8dd3-482d-b51a-332c398022ec" />
 
-![Routing Topology Algorithms](../../assets/day-05/lectures/session-03/routing-topology.png)
+<img width="1522" height="834" alt="image" src="https://github.com/user-attachments/assets/bfb8834e-35e1-459c-835c-94dccefd14c1" />
+
 
 ---
 
