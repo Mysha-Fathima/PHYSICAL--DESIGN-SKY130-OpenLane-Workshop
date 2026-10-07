@@ -1,19 +1,19 @@
-# Day 02 | Good Floorplan vs. Bad Floorplan
+# Day 03 | Good Floorplan vs. Bad Floorplan
 
 ### Lecture Sessions — SK1, SK2 & SK4
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSD-OpenLane%20Workshop-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Day-02-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Day-03-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Track-Theory-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Technology-SKY130-informational?style=flat-square" />
 </p>
 
-> **Day 02 Focus:** Floorplanning quality, library-aware placement and timing fundamentals.
+> **Day 03 Focus:** Floorplanning quality, library-aware placement and timing fundamentals.
 
 ## 📌 Overview
 
-Day 2 of the VSD OpenLane SKY130 Physical Design Workshop focuses on the principles that determine whether a floorplan is efficient, routable and timing-aware.
+Day 3 of the VSD OpenLane SKY130 Physical Design Workshop focuses on the principles that determine whether a floorplan is efficient, routable and timing-aware.
 
 The sessions connect floorplan organization with standard-cell placement, power delivery, congestion management and timing performance. Together, these concepts establish the foundation for creating physically feasible and optimized chip layouts.
 
@@ -263,7 +263,7 @@ Understanding propagation delay, the time taken for a change at a circuit input 
 ---
 
 <p align="center">
-  <b>Day 02 — Theory Sessions</b><br/>
+  <b>Day 03 — Theory Sessions</b><br/>
   <i>Understanding floorplanning, library binding and timing fundamentals.</i>
 </p>
 
