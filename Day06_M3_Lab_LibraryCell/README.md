@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSD-OpenLane%20Workshop-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Day-03-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Day-06-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Track-Hands--On%20Lab-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Technology-SKY130-informational?style=flat-square" />
 </p>
@@ -321,6 +321,6 @@ Gained hands-on exposure to the practical process of developing and reviewing a 
 ---
 
 <p align="center">
-  <b>Day 03 — Hands-on Lab Completed</b><br/>
+  <b>Day 06 — Hands-on Lab Completed</b><br/>
   <i>Applying CMOS, layout and SKY130 technology concepts through practical exercises.</i>
 </p>
