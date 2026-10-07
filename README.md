@@ -149,7 +149,21 @@ Tapeout Readiness
 `VLSI Physical Design` • `ASIC Backend` • `SKY130` • `Floorplanning` • `Library Binding` • `Standard Cells` • `CMOS Layout` • `Timing Analysis` • `CTS` • `Power Distribution` • `Routing` • `TritonRoute` • `RTL-to-GDSII` • `Linux` • `Git & GitHub`
 
 ---
+## Progress Summary
 
+| Workshop Day | Topic | Lab work completed | Folder |
+|---|---|---|---|
+| 1 | Inception of open-source ASIC design | OpenLane setup, design preparation, synthesis, cell-count and flop-ratio report | [Day02_M1_Lab_Inception](Day02_M1_Lab_Inception) |
+| 2 | Floorplan and placement | Floorplan (die/core area, IO placement, PDN), global and detailed placement | [Day04_M2_Lab_Floorplanning](Day04_M2_Lab_Floorplanning) |
+| 3 | Design library cell (Magic, ngspice) | CMOS inverter layout, SPICE extraction, ngspice simulations, Magic DRC (met3 test loaded) | [Day06_M3_Lab_LibraryCell](Day06_M3_Lab_LibraryCell) |
+| 4 | Pre-layout timing and CTS | Clock tree synthesis, post-CTS setup/hold analysis, clock skew | [Day08_M4_Lab_Timing](Day08_M4_Lab_Timing) |
+| 5 | Final steps: routing and signoff | Power distribution, global and detailed routing, Magic GDS/DRC, antenna check | [Day10_M5_Lab_Routing](Day10_M5_Lab_Routing) |
+
+### Pending items
+Timing-model conversion (Day 4 SK1 L1, L2, L3, L7), post-synthesis timing configuration and optimization (SK2 L3, L4, L5), and bigger-buffer CTS (SK4 L5) are not completed yet. They will be added to this repo once done.
+
+### Reproducibility
+Design inputs are in `design/` and the exact command sequence is in `flow/flow_commands.tcl` (OpenLane v1.0.2, sky130A, `sky130_fd_sc_hd`).
 # 🎯 Career Focus
 
 ### My Current Learning Path
