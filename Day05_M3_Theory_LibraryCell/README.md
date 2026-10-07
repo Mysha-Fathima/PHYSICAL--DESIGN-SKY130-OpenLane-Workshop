@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSD-OpenLane%20Workshop-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Day-03-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Day-05-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Track-Theory-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Technology-SKY130-informational?style=flat-square" />
 </p>
