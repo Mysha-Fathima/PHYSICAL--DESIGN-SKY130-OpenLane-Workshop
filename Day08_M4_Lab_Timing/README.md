@@ -11,263 +11,123 @@
 
 ## 📌 Overview
 
-Day 4 included hands-on exercises across timing modelling, timing analysis, clock-tree synthesis and setup/hold timing analysis.
-
-The practical exercises apply the concepts introduced during the corresponding theory sessions and provide hands-on exposure to timing-related implementation workflows.
+Day 4 focused on applying pre-layout timing concepts through practical exercises covering timing modelling, timing analysis, timing configuration, optimization, Clock Tree Synthesis (CTS), and timing verification.
 
 ---
 
-# 🧪 Session 1 — Timing Modelling
+# 🧪 SK1 — Timing Modelling
 
-## Lab 1 — Convert Gate-Level Information
+### Lab 1 — Gate-Level Information Conversion
 
-**Objective:** Apply the prescribed workflow for converting the required gate-level information for timing analysis.
+Worked through the conversion of gate-level information required for the subsequent timing-analysis flow.
 
-**Activities**
+<img width="1090" height="665" alt="Gate-Level Information Conversion" src="https://github.com/user-attachments/assets/97c26b4c-668c-4c09-9c33-52a05ac978e2" />
 
-- Follow the provided conversion procedure.
-- Work with the required design information.
-- Prepare the data for subsequent timing analysis.
+### Lab 2 — Timing Information Conversion
 
-**Learning outcome**
+Prepared and examined timing-related information used during timing analysis.
 
-Gained practical familiarity with preparing gate-level information for timing analysis.
+<img width="1083" height="1051" alt="Timing Information Conversion" src="https://github.com/user-attachments/assets/c6e66332-c743-48b7-bb00-2a7e1b43d76b" />
 
-### 📸 Lab Evidence
+### Lab 3 — Introduction to Timing Analysis
 
-<img width="1090" height="665" alt="image" src="https://github.com/user-attachments/assets/97c26b4c-668c-4c09-9c33-52a05ac978e2" />
+Applied the initial timing-analysis workflow and reviewed the resulting timing information.
 
+### Lab 7 — Timing Environment Configuration
 
----
-
-## Lab 2 — Convert Timing Information
-
-**Objective:** Practice the prescribed conversion process used for preparing timing-related information.
-
-**Activities**
-
-- Follow the timing conversion procedure.
-- Examine the generated information.
-- Relate the converted information to timing analysis.
-
-**Learning outcome**
-
-Developed practical familiarity with preparing timing information for analysis.
-
-### 📸 Lab Evidence
-
-<img width="1083" height="1051" alt="image" src="https://github.com/user-attachments/assets/c6e66332-c743-48b7-bb00-2a7e1b43d76b" />
-
+Configured the required environment and settings for timing-related analysis.
 
 ---
 
-## Lab 3 — Introduction to Timing Analysis
+# 🧪 SK2 — Timing Analysis
 
-**Objective:** Apply the introductory timing-analysis workflow using the provided design environment.
+### Lab 3 — Timing Analysis Configuration
 
-**Activities**
+Configured the analysis environment and prepared the required timing inputs.
+<img width="1063" height="1126" alt="image" src="https://github.com/user-attachments/assets/2f2588d7-80da-45e2-bf22-8c6277b97d8c" />
 
-- Configure the required timing-analysis environment.
-- Execute the prescribed analysis steps.
-- Review the resulting timing information.
 
-**Learning outcome**
+### Lab 4 — Timing Optimization
 
-Gained initial hands-on experience with timing analysis.
+Examined timing information and applied the prescribed optimization procedure to improve timing behaviour.
+<img width="1065" height="1059" alt="image" src="https://github.com/user-attachments/assets/bc9f42c2-1f8e-4372-8027-b8b4b00ab967" />
 
-### 📸 Lab Evidence
+### Lab 5 — Basic Timing Analysis
 
+Executed the basic timing-analysis flow and reviewed the reported timing results.
+<img width="526" height="306" alt="image" src="https://github.com/user-attachments/assets/f2d8b5c2-7749-4501-b010-36f3f64b6691" />
+
+---
+
+# 🧪 SK3 — Clock Tree Synthesis
+
+### Lab 3 — Clock Tree Synthesis
+
+Executed the CTS flow to generate the required clock distribution network.
+
+<img width="1090" height="665" alt="image" src="https://github.com/user-attachments/assets/efee0f3d-a3e9-40b9-9489-03f7773a84a6" />
+
+
+### Lab 4 — Clock Tree Verification
+
+Reviewed and verified the generated clock-tree implementation and CTS results.
+
+<img width="1083" height="1051" alt="image" src="https://github.com/user-attachments/assets/80ffc11b-9998-4161-88fa-0723c7346c9d" />
 
 
 ---
 
-## Lab 7 — Configure Timing Environment
+# 🧪 SK4 — Timing Analysis
 
-**Objective:** Configure the required environment for timing-related analysis.
+### Lab 3 — Timing Analysis
 
-**Activities**
+Performed timing analysis and examined data-path and clock-path timing information.
+<img width="1090" height="471" alt="image" src="https://github.com/user-attachments/assets/75c21ad8-1549-49a1-b63c-00f52f2e32eb" />
 
-- Prepare the required configuration.
-- Apply the prescribed timing settings.
-- Verify the analysis setup.
+### Lab 4 — Timing Analysis Execution
 
-**Learning outcome**
+Executed the next stage of the timing-analysis workflow and reviewed the resulting timing data.
 
-Developed practical familiarity with configuring a timing-analysis environment.
+<img width="621" height="1094" alt="image" src="https://github.com/user-attachments/assets/ec45399a-36e5-4c6a-af64-824dd1053aa3" />
 
-### 📸 Lab Evidence
 
-![Timing Configuration](../../assets/day-04/lab/sk1-l7-timing-configuration.png)
+### Lab 5 — Timing Behaviour Observation
 
----
+Observed the generated timing information and related the results to setup/hold timing concepts.
 
-# 🧪 Session 2 — Timing Analysis
 
-## Lab 3 — Configure Timing Analysis
+<img width="603" height="1100" alt="image" src="https://github.com/user-attachments/assets/78928f72-11df-4229-94b4-2634752d2dc6" />
+<img width="1090" height="505" alt="image" src="https://github.com/user-attachments/assets/034782f0-5c4f-4e0a-8c27-02b43a671e43" />
 
-**Objective:** Configure the timing-analysis environment and prepare the design for analysis.
-
-**Activities**
-
-- Apply the required configuration.
-- Prepare timing-analysis inputs.
-- Execute the prescribed setup procedure.
-
-### 📸 Lab Evidence
-
-![Timing Analysis Configuration](../../assets/day-04/lab/sk2-l3-configure-timing.png)
 
 ---
 
-## Lab 4 — Timing Optimization
+# 🧠 Key Practical Takeaways
 
-**Objective:** Practice the prescribed optimization procedure for improving timing behaviour.
-
-**Activities**
-
-- Examine the timing information.
-- Identify timing-related issues.
-- Apply the provided optimization procedure.
-- Review the resulting timing behaviour.
-
-### 📸 Lab Evidence
-
-![Timing Optimization](../../assets/day-04/lab/sk2-l4-timing-optimization.png)
-
----
-
-## Lab 5 — Basic Timing Analysis
-
-**Objective:** Perform the basic timing-analysis exercise using the provided workflow.
-
-**Activities**
-
-- Run the timing analysis.
-- Examine the reported timing information.
-- Review the timing results.
-
-### 📸 Lab Evidence
-
-![Basic Timing Analysis](../../assets/day-04/lab/sk2-l5-basic-timing-analysis.png)
-
----
-
-# 🧪 Session 3 — Clock Tree Synthesis
-
-## Lab 3 — Run Clock Tree Synthesis
-
-**Objective:** Execute the prescribed Clock Tree Synthesis (CTS) workflow.
-
-**Activities**
-
-- Prepare the design for CTS.
-- Run the CTS procedure.
-- Review the generated clock-tree information.
-
-**Learning outcome**
-
-Gained hands-on exposure to the CTS implementation process.
-
-### 📸 Lab Evidence
-
-![Running CTS](../../assets/day-04/lab/sk3-l3-run-cts.png)
-
----
-
-## Lab 4 — Verify Clock Tree
-
-**Objective:** Verify the generated clock-tree implementation.
-
-**Activities**
-
-- Examine the generated clock network.
-- Review CTS results.
-- Check the resulting clock-tree implementation.
-
-**Learning outcome**
-
-Developed practical familiarity with reviewing and verifying CTS results.
-
-### 📸 Lab Evidence
-
-![CTS Verification](../../assets/day-04/lab/sk3-l4-verify-cts.png)
-
----
-
-# 🧪 Session 4 — Timing Analysis
-
-## Lab 3 — Analyze Timing
-
-**Objective:** Perform the prescribed timing-analysis exercise and examine the resulting timing information.
-
-**Activities**
-
-- Execute the timing-analysis procedure.
-- Review data and clock timing.
-- Examine the reported timing results.
-
-### 📸 Lab Evidence
-
-![Timing Analysis](../../assets/day-04/lab/sk4-l3-analyze-timing.png)
-
----
-
-## Lab 4 — Execute Timing Analysis
-
-**Objective:** Perform the next stage of the timing-analysis workflow using the configured environment.
-
-**Activities**
-
-- Execute the prescribed analysis.
-- Observe the timing results.
-- Review timing-related parameters.
-
-### 📸 Lab Evidence
-
-![Timing Analysis Execution](../../assets/day-04/lab/sk4-l4-execute-timing.png)
-
----
-
-## Lab 5 — Observe Timing Behaviour
-
-**Objective:** Observe and interpret the timing behaviour produced by the analysis.
-
-**Activities**
-
-- Review the generated timing information.
-- Observe the reported timing behaviour.
-- Relate the results to setup/hold timing concepts.
-
-### 📸 Lab Evidence
-
-![Timing Observation](../../assets/day-04/lab/sk4-l5-observe-timing.png)
-
----
-
-# 🧠 Day 4 — Practical Learning Outcomes
-
-- Practiced timing-related data preparation.
-- Worked with timing-analysis configuration.
-- Performed introductory timing-analysis exercises.
-- Practiced timing optimization.
-- Executed Clock Tree Synthesis.
-- Reviewed CTS implementation results.
-- Practiced setup/hold-related timing analysis.
-- Interpreted timing information from the implementation flow.
+- Prepared gate-level and timing information for analysis.
+- Configured a timing-analysis environment.
+- Practiced basic timing analysis and optimization.
+- Executed and reviewed Clock Tree Synthesis.
+- Verified clock-tree implementation.
+- Examined timing behaviour in relation to setup and hold requirements.
 
 ---
 
 ## 📊 Lab Progress
 
-| Session | Lab Exercises | Status |
-|---|---|---|
-| SK1 — Timing Modelling | L1, L2, L3, L7 | ✅ |
-| SK2 — Timing Analysis | L3, L4, L5 | ✅ |
-| SK3 — Clock Tree Synthesis | L3, L4 | ✅ |
-| SK4 — Timing Analysis | L3, L4, L5 | ✅ |
+| Session | Practical Work |
+|---|---|
+| **SK1 — Timing Modelling** | L1, L2, L3, L7 |
+| **SK2 — Timing Analysis** | L3, L4, L5 |
+| **SK3 — Clock Tree Synthesis** | L3, L4 |
+| **SK4 — Timing Analysis** | L3, L4, L5 |
 
 ---
 
+<p align="center">
+  <b>Day 04 — Hands-on Lab</b><br/>
+  <i>Applying timing, CTS and analysis concepts in the SKY130 physical design flow.</i>
+</p>
 <p align="center">
   <b>Day 04 — Hands-on Lab</b><br/>
   <i>Applying timing, CTS and analysis concepts through practical exercises.</i>
