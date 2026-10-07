@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSD-OpenLane%20Workshop-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Day-04-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Day-08-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Track-Hands--On%20Lab-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Technology-SKY130-informational?style=flat-square" />
 </p>
@@ -125,10 +125,6 @@ Observed the generated timing information and related the results to setup/hold 
 ---
 
 <p align="center">
-  <b>Day 04 — Hands-on Lab</b><br/>
-  <i>Applying timing, CTS and analysis concepts in the SKY130 physical design flow.</i>
-</p>
-<p align="center">
-  <b>Day 04 — Hands-on Lab</b><br/>
+  <b>Day 08 — Hands-on Lab</b><br/>
   <i>Applying timing, CTS and analysis concepts through practical exercises.</i>
 </p>
