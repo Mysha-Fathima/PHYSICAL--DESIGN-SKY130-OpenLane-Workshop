@@ -54,7 +54,8 @@ Introduction to delay tables and their role in representing the timing behaviour
 
 ### 📸 Learning Evidence
 
-![Delay Table Usage Part 1](../../assets/day-04/lectures/session-01/l5-delay-table-part1.png)
+<img width="798" height="510" alt="image" src="https://github.com/user-attachments/assets/0cce9eb0-2f51-4e62-aefa-78007c6b2c8a" />
+
 
 ---
 
@@ -72,7 +73,8 @@ Continuation of delay-table concepts, focusing on how timing information is repr
 
 ### 📸 Learning Evidence
 
-![Delay Table Usage Part 2](../../assets/day-04/lectures/session-01/l6-delay-table-part2.png)
+<img width="1090" height="388" alt="image" src="https://github.com/user-attachments/assets/8d599dce-c324-46ae-9cbb-15ee8df602f6" />
+
 
 ---
 
@@ -92,7 +94,8 @@ Introduction to setup timing analysis and the timing relationship required for r
 
 ### 📸 Learning Evidence
 
-![Setup Timing Analysis](../../assets/day-04/lectures/session-02/l1-setup-timing.png)
+<img width="713" height="378" alt="image" src="https://github.com/user-attachments/assets/77c00333-d684-497f-84ae-5e2e9645fad3" />
+
 
 ---
 
@@ -110,7 +113,8 @@ Introduction to clock signals and their role in synchronizing sequential element
 
 ### 📸 Learning Evidence
 
-![Introduction to Clocking](../../assets/day-04/lectures/session-02/l2-clock-introduction.png)
+<img width="760" height="535" alt="image" src="https://github.com/user-attachments/assets/6a18d9f0-b533-4264-831e-01fc62651cd2" />
+
 
 ---
 
@@ -130,7 +134,9 @@ Introduction to clock-tree routing and the need to distribute the clock signal e
 
 ### 📸 Learning Evidence
 
-![Clock Tree Routing](../../assets/day-04/lectures/session-03/l1-clock-tree-routing.png)
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/81c755e3-4a40-4049-be5e-1484a03636b7" />
+
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/2f42b339-8e20-4221-b7ef-38e9d42efe1b" />
 
 ---
 
@@ -148,7 +154,9 @@ Introduction to crosstalk effects in clock networks and their potential impact o
 
 ### 📸 Learning Evidence
 
-![Crosstalk and Clock Noise](../../assets/day-04/lectures/session-03/l2-crosstalk-clock-noise.png)
+<img width="1000" height="403" alt="image" src="https://github.com/user-attachments/assets/60a05896-37e6-4e3c-8003-be22fe0b58cb" />
+
+
 
 ---
 
@@ -168,7 +176,8 @@ Understanding setup timing requirements and the relationship between the data pa
 
 ### 📸 Learning Evidence
 
-![Setup Timing Analysis](../../assets/day-04/lectures/session-04/l1-setup-timing.png)
+<img width="1069" height="535" alt="image" src="https://github.com/user-attachments/assets/5749b228-4f01-40cf-82df-bb38fcc05d6b" />
+
 
 ---
 
@@ -186,7 +195,8 @@ Introduction to hold timing and the requirement that data remain stable for the 
 
 ### 📸 Learning Evidence
 
-![Hold Timing Analysis](../../assets/day-04/lectures/session-04/l2-hold-timing.png)
+<img width="449" height="484" alt="image" src="https://github.com/user-attachments/assets/399eabc3-3eff-4a8b-9c92-19f9320f0d57" />
+
 
 ---
 
