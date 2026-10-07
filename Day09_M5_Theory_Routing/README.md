@@ -161,7 +161,8 @@ Introduction to the TritonRoute methodology and the workflow used for detailed r
 
 ### 📸 Learning Evidence
 
-![TritonRoute Methodology](../../assets/day-05/lectures/session-03/tritonroute-methodology.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/fc528887-73f7-41ef-86b2-074515526d14" />
+
 
 ---
 
