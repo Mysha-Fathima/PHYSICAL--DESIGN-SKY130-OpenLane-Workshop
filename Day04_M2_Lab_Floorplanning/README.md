@@ -1,17 +1,17 @@
-# Day 02 | Cell Design and Characterization
+# Day 04 | Cell Design and Characterization
 
 ### Hands-on Lab — SK3
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSD-OpenLane%20Workshop-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Day-02-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Day-04-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Track-Hands--On%20Lab-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Technology-SKY130-informational?style=flat-square" />
 </p>
 
 ## 📌 Overview
 
-The third session of Day 2 introduces the fundamentals of standard-cell design and characterization. The lab topics cover the inputs required for a cell design flow, circuit design, layout design and typical cell characterization.
+The third session of Day 4 introduces the fundamentals of standard-cell design and characterization. The lab topics cover the inputs required for a cell design flow, circuit design, layout design and typical cell characterization.
 
 These activities provide an introduction to the relationship between circuit-level implementation, physical layout and the electrical characteristics of standard cells.
 
@@ -148,7 +148,7 @@ Developed an introductory understanding of standard-cell characterization and it
 | SK3-L3 | Layout Design Step          | ✅      |
 | SK3-L4 | Typical Characterization    | ✅      |
 
-## 📌 Day 2 — Practical Summary
+## 📌 Day 4 — Practical Summary
 
 The hands-on session introduced the major stages involved in standard-cell development, from defining design inputs and implementing a circuit to creating a physical layout and understanding typical characterization.
 
@@ -157,7 +157,7 @@ These concepts provide a foundation for further study of standard-cell libraries
 ---
 
 <p align="center">
-  <b>Day 02 — Hands-on Lab</b><br/>
+  <b>Day 04 — Hands-on Lab</b><br/>
   <i>Exploring the fundamentals of standard-cell design and characterization.</i>
 </p>
 
