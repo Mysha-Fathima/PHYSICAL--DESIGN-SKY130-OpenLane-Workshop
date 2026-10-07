@@ -1,19 +1,19 @@
-# Day 04 | Pre-Layout Timing Analysis
+# Day 07 | Pre-Layout Timing Analysis
 
 ### Lecture Sessions — SK1, SK2, SK3 & SK4
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSD-OpenLane%20Workshop-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Day-04-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Day-07-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Track-Theory-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Technology-SKY130-informational?style=flat-square" />
 </p>
 
-> **Day 04 Focus:** Timing modelling, delay tables, timing analysis, clock-tree fundamentals and setup/hold timing.
+> **Day 07 Focus:** Timing modelling, delay tables, timing analysis, clock-tree fundamentals and setup/hold timing.
 
 ## 📌 Overview
 
-Day 4 of the VSD OpenLane SKY130 Physical Design Workshop focuses on pre-layout timing analysis and the timing concepts required before and during physical implementation.
+Day 7 of the VSD OpenLane SKY130 Physical Design Workshop focuses on pre-layout timing analysis and the timing concepts required before and during physical implementation.
 
 The sessions introduce timing models, delay information, timing analysis, clock-tree concepts, crosstalk and setup/hold timing.
 
@@ -212,7 +212,7 @@ Introduction to hold timing and the requirement that data remain stable for the 
 
 ---
 
-## 📊 Day 4 Theory Summary
+## 📊 Day 7 Theory Summary
 
 | Session | Theory Topics |
 |---|---|
@@ -224,6 +224,6 @@ Introduction to hold timing and the requirement that data remain stable for the 
 ---
 
 <p align="center">
-  <b>Day 04 — Theory Sessions</b><br/>
+  <b>Day 07 — Theory Sessions</b><br/>
   <i>Understanding timing models, clocking and pre-layout timing analysis.</i>
 </p>
