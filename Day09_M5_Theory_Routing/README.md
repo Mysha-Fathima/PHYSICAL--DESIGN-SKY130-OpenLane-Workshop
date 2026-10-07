@@ -142,7 +142,8 @@ Continuation of the TritonRoute feature overview and its role in completing the 
 
 ### 📸 Learning Evidence
 
-![TritonRoute Feature 2](../../assets/day-05/lectures/session-03/tritonroute-feature-2.png)
+<img width="297" height="169" alt="image" src="https://github.com/user-attachments/assets/06c7c54b-c4dc-4ec4-a677-fa7149039b05" />
+
 
 ---
 
