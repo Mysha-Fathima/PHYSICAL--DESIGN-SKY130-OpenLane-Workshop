@@ -1,16 +1,16 @@
-# Day 01 | OpenLane Environment & Lab Practice
+# Day 02 | OpenLane Environment & Lab Practice
 
 ### Hands-on Session — SK3
 
 <p align="center">
   <img src="https://img.shields.io/badge/VSD-OpenLane%20Workshop-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Day-01-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Day-02-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Track-Hands--On%20Lab-orange?style=flat-square" />
 </p>
 
 ## 📌 Overview
 
-The third session of Day 1 focused on practical familiarization with the OpenLane physical design environment. The lab activities covered directory exploration, design preparation, reviewing project files, understanding the OpenLane project structure and introductory design characterization.
+The third session of Day 2 focused on practical familiarization with the OpenLane physical design environment. The lab activities covered directory exploration, design preparation, reviewing project files, understanding the OpenLane project structure and introductory design characterization.
 
 ## 💻 Session 3 — Get Familiar with the OpenLane Environment
 
@@ -119,14 +119,14 @@ The third session of Day 1 focused on practical familiarization with the OpenLan
 | SK3-L4   | OpenLane Project Familiarization      | ✅      |
 | SK3-L5   | Design Characterization               | ✅      |
 
-## 📌 Day 1 — Practical Summary
+## 📌 Day 2 — Practical Summary
 
 The hands-on session provided initial exposure to the OpenLane environment and the organization of physical design projects. The exercises established a foundation for subsequent implementation activities and deeper exploration of the RTL-to-GDSII flow.
 
 ---
 
 <p align="center">
-  <b>Day 01 — Hands-on Lab Completed</b><br/>
+  <b>Day 02 — Hands-on Lab Completed</b><br/>
   <i>Exploring the OpenLane environment through practical exercises.</i>
 </p>
 
